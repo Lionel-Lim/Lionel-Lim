@@ -1,0 +1,26 @@
+#header, #menu {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background-color: #034f84;
+}
+
+a, a:visited, a:hover, a:active {
+    color: inherit;
+  }
+
+#header {
+    background-color: #034f84;
+}
+
+#mainPhoto {
+    text-align: center;
+}
+
+.menu-item {
+    width: 200px;
+}
