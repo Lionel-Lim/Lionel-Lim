@@ -7,7 +7,6 @@
 ## Useful info about me. 
 
 **_From_** : Gwangju, Republic of Korea(South Korea) 🇰🇷  
-**_Age_** : 30 in Korea, 29 in the rest of countries  
   
 **_Background_** : Studied Architectural Engineering in Korea. Worked in Singapore🇸🇬 as a BIM Coordinator for two years.  
   
